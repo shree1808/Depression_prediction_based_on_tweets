@@ -1,5 +1,11 @@
-### project env - nlp_venv_new ###
+## Use the Reddit Api ###
 
-Twitter API v2: obtain the endpoint and the access keys.
+### Create the Application ###
 
-![alt text](image.png)
+### Check - Class Imbalance ###
+
+### Save the Model & Perform OPtimization ### 
+
+### Create a Flask Application ### 
+
+### Deploy Over Heroku ### 
