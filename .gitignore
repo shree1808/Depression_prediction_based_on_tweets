@@ -1,0 +1,9 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore notes/
+notes/
