@@ -13,10 +13,10 @@ logging.basicConfig(
 # Creating the reddit instance
 reddit = praw.Reddit(
     user_agent= True,
-    client_id="izNBeVOeljkTHRm4XGupAg",
-    client_secret="f83VE08w-ekeTL2eevfKYaQbCg7HuA",
-    username = 'Suspicious_List_69',
-    password = 'Intruder@21'
+    client_id="",
+    client_secret="",
+    username = '',
+    password = ''
 )
 
 
