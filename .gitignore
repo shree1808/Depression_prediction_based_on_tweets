@@ -1,7 +1,7 @@
 # Ignore Jupyter Notebook checkpoints
 
 # Ignore log files
-*.log
+
 logs/
 
 # Ignore notes/
