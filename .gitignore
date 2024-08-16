@@ -3,3 +3,5 @@ logs/
 
 # Ignore notes/
 notes/
+
+dockerfile
